@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Priyanka
-- Loc: Bangalore
-- Prof: Data Science Consultant at Rubixe
-- Edu: MTech
+- Bangalore
+- Data Science Consultant at Rubixe
+- MTech
